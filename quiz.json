@@ -1,0 +1,3021 @@
+{
+  "categorie": [
+    "Geografia",
+    "Normativa Statale e Regionale",
+    "Regolamento e Comportamento",
+    "Fuori Dispensa",
+    "Inglese"
+  ],
+  "domande": [
+    {
+      "categoria": "Inglese",
+      "testo": "Where ………. from?",
+      "opzioni": [
+        "you are",
+        "are you",
+        "are"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Where ……….?",
+      "opzioni": [
+        "you live",
+        "are you live",
+        "do you live"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "How old ……….?",
+      "opzioni": [
+        "are you sister",
+        "is your sister",
+        "your sister"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "I ………. to the cinema every Friday.",
+      "opzioni": [
+        "go",
+        "goes",
+        "am going"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Paolo can ………. three languages.",
+      "opzioni": [
+        "speak",
+        "to speak",
+        "speaks"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "My husband usually ………. home about 6.",
+      "opzioni": [
+        "arrive",
+        "is arriving",
+        "arrives"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Take an umbrella. ……….",
+      "opzioni": [
+        "I’m raining",
+        "It’s raining",
+        "It’s rain"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "How much ………. it cost?",
+      "opzioni": [
+        "is",
+        "does",
+        "are"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "………. like coffee now or later?",
+      "opzioni": [
+        "Would you",
+        "You",
+        "Are you"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "How ………. photo did you take?",
+      "opzioni": [
+        "many",
+        "any",
+        "much"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "I ………. John when i was at the bank.",
+      "opzioni": [
+        "see",
+        "said",
+        "saw"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "This book is ………. that one.",
+      "opzioni": [
+        "old as",
+        "older as",
+        "older than"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "What did you ……….?",
+      "opzioni": [
+        "say",
+        "said",
+        "told"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "…….... go skiing this weekend?",
+      "opzioni": [
+        "Why do we",
+        "Why don’t we",
+        "How about"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Anne is 25 years old but (she) still lives ………. her parents.",
+      "opzioni": [
+        "with",
+        "to",
+        "from"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "………. you go to the mountains at the weekend?",
+      "opzioni": [
+        "Did",
+        "Have",
+        "Does"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "This ………. my friend John.",
+      "opzioni": [
+        "is",
+        "are",
+        "a"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "………. there students in the room?",
+      "opzioni": [
+        "Are",
+        "Have",
+        "Does"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "How are you? ……….",
+      "opzioni": [
+        "Fine, thanks.",
+        "How do you do?",
+        "I’m a secretary."
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Can you speak French? ……….",
+      "opzioni": [
+        "Yes, I can’t.",
+        "No, I can.",
+        "Yes, I can."
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Tom is ………. taxi driver.",
+      "opzioni": [
+        "an",
+        "the",
+        "a"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "It’s cold today. ………. you got a jacket?",
+      "opzioni": [
+        "Have",
+        "Do",
+        "Has"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "In my course there is only one man and four ……….",
+      "opzioni": [
+        "women",
+        "womens",
+        "womans"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "This is Mr. Taylor and that is ………. son.",
+      "opzioni": [
+        "his",
+        "her",
+        "its"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "What’s the time? ……………?",
+      "opzioni": [
+        "A quarter to eight",
+        "At eight o’clock",
+        "It’s half past eight o’clock"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "I don’t like wine. I ………. drink it.",
+      "opzioni": [
+        "never",
+        "ever",
+        "always"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "………. do you go to the gym?",
+      "opzioni": [
+        "How much",
+        "How often",
+        "Many times"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "What ………. your sister do?",
+      "opzioni": [
+        "Do",
+        "Does",
+        "Make"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Look at that girl! She ………. an ice cream.",
+      "opzioni": [
+        "drink",
+        "is eating",
+        "eats"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "My sister works in a restaurant. She ………. very well.",
+      "opzioni": [
+        "cook",
+        "can cook",
+        "cans cook"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Tell me, is ………. your coat?",
+      "opzioni": [
+        "those",
+        "it",
+        "this"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "I’d like some coffee. I’m afraid there isn’t ……….",
+      "opzioni": [
+        "anything",
+        "any",
+        "some"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "There is ………. milk in the fridge.",
+      "opzioni": [
+        "a lot",
+        "more",
+        "enough"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Kate and Jenny are sisters and Bill is ………. brother.",
+      "opzioni": [
+        "his",
+        "their",
+        "them"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Is that your car? No, ……….",
+      "opzioni": [
+        "it is",
+        "this is",
+        "it isn’t"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "………. are you? I am in the bedroom.",
+      "opzioni": [
+        "Where",
+        "Why",
+        "When"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "How are you? ……………",
+      "opzioni": [
+        "I am fine.",
+        "I are good.",
+        "You are ok."
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "I ………. hungry.",
+      "opzioni": [
+        "have",
+        "am",
+        "got"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Our house has three bedrooms. I have the ……….",
+      "opzioni": [
+        "largest",
+        "greater",
+        "big"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Anne is 25 years old but (she) still lives ………. her parents.",
+      "opzioni": [
+        "on",
+        "with",
+        "because"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Shall we go ………. the cinema tonight?",
+      "opzioni": [
+        "from",
+        "with",
+        "to"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "John and Mary have been married ………. last October.",
+      "opzioni": [
+        "in",
+        "to",
+        "since"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "I have been learning English ………. two years.",
+      "opzioni": [
+        "to",
+        "for",
+        "since"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "My son is afraid ………. dogs.",
+      "opzioni": [
+        "into",
+        "of",
+        "to"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "What ……….? A letter to my pen friend.",
+      "opzioni": [
+        "are you writing",
+        "does you write",
+        "write"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Where ……………?",
+      "opzioni": [
+        "do he go",
+        "doesn’t he going",
+        "did he go"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Chinese people ………. a lot of rice.",
+      "opzioni": [
+        "eat",
+        "are eating",
+        "drink"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "How old is Bill? ……………",
+      "opzioni": [
+        "He is 21.",
+        "He has 21.",
+        "She are 21."
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "What is her job? ………. nurse.",
+      "opzioni": [
+        "She is a",
+        "She",
+        "She has a"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Where ……….? From Japan.",
+      "opzioni": [
+        "are you from",
+        "are you for",
+        "is Japan"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Do you like London? Yes, ……….",
+      "opzioni": [
+        "I do.",
+        "so I do.",
+        "I like."
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Where are you going …….. friday?",
+      "opzioni": [
+        "on",
+        "in",
+        "at"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "What ………. in London last weekend?",
+      "opzioni": [
+        "you did",
+        "did you",
+        "did you do"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Is your English improving? ……….",
+      "opzioni": [
+        "Hoping.",
+        "I hope so.",
+        "I hope it."
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "He was mowing the lawn when I ………. him yesterday.",
+      "opzioni": [
+        "saw",
+        "had seen",
+        "was seeing"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Last tuesday I ………. to the passport Office.",
+      "opzioni": [
+        "must gone",
+        "must go",
+        "had to go"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "How many people ………. in your family?",
+      "opzioni": [
+        "are there",
+        "are they",
+        "is"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "What time is it? ……………",
+      "opzioni": [
+        "Ten and a quarter.",
+        "A quarter past ten.",
+        "Fifteen after ten o’clock."
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "I get up at 8 o’clock ………. morning.",
+      "opzioni": [
+        "in the",
+        "in",
+        "at the"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "What were you doing at 7.30 on Sunday evening? ………. TV.",
+      "opzioni": [
+        "Watched",
+        "I was watching",
+        "Was watched"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "What time ………. to bed during the week?",
+      "opzioni": [
+        "you are going",
+        "are you go",
+        "do you go"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "How much ………. where you live?",
+      "opzioni": [
+        "do houses cost",
+        "does cost houses",
+        "do cost houses"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "I’m afraid I haven’t got ……….",
+      "opzioni": [
+        "scissor",
+        "some scissors",
+        "any scissors"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Would you mind ………. me that pencil?",
+      "opzioni": [
+        "passing",
+        "pass",
+        "to pass to"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "I wish you ……….",
+      "opzioni": [
+        "are there",
+        "were here",
+        "was here"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "How old are you? ……………",
+      "opzioni": [
+        "I’m 30 years old.",
+        "i have 30.",
+        "30 years."
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "She came to Britain ……..",
+      "opzioni": [
+        "at four days",
+        "four days ago",
+        "since four days"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "I’m sorry. I haven’t done my report ……..",
+      "opzioni": [
+        "yet",
+        "already",
+        "until the present"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "My friend doesn’t speak Chinese. I don’t ……….",
+      "opzioni": [
+        "too",
+        "also",
+        "either"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "It’s time ………. some work.",
+      "opzioni": [
+        "she did",
+        "for to do",
+        "she would do"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "She asked me how big ……….",
+      "opzioni": [
+        "is your house.",
+        "is my house.",
+        "my house was."
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "My friend let ………. his bike yesterday.",
+      "opzioni": [
+        "me borrow",
+        "to borrow",
+        "me to borrow"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "I have difficulty ………. English.",
+      "opzioni": [
+        "to writing",
+        "to write",
+        "writing"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "We’re having the party at ……….",
+      "opzioni": [
+        "the Deborah’s house",
+        "Deborah’s",
+        "house of Deborah"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "It’s now 9 o’clock and the train ………. arrive at 8:15.",
+      "opzioni": [
+        "must",
+        "was due to",
+        "will"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "I’d like some coffee. I’m afraid there isn’t ……….",
+      "opzioni": [
+        "more",
+        "any",
+        "anything"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Kate and Jenny are sisters and Bill is ………. brother.",
+      "opzioni": [
+        "them",
+        "this",
+        "their"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "I don’t like tests. Neither ……….",
+      "opzioni": [
+        "do I",
+        "I do",
+        "I don’t"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Is that your car? No, ……….",
+      "opzioni": [
+        "is not",
+        "it isn’t",
+        "it is not"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Inglese",
+      "testo": "Good afternoon! Excelsior Hotel. Can I ………. you?",
+      "opzioni": [
+        "attend",
+        "assist",
+        "help"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Benaco è il nome di quale Lago:",
+      "opzioni": [
+        "Lago d'Iseo",
+        "Lago Maggiore",
+        "Lago di Garda"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Sebino è il nome di quale Lago:",
+      "opzioni": [
+        "Lago di Garda",
+        "Lago d'Iseo",
+        "Lago di Como"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "La Val Veddasca, la Val Tresa, la Valcuvia e Valganna si trovano:",
+      "opzioni": [
+        "nella provincia di Sondrio",
+        "nella provincia di Brescia",
+        "nella provincia di Varese"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Il fiume Mincio, forma in prossimità di un capoluogo di provincia della Lombardia, tre laghi, detti di “mezzo” “inferiore” e “superiore”, qual è questa città?",
+      "opzioni": [
+        "Cremona",
+        "Pavia",
+        "Mantova"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "l'aeroporto bergamasco di Orio al serio rispetto a capoluogo di provincia, dove è situato?",
+      "opzioni": [
+        "nord",
+        "sud",
+        "all'interno della stessa città di Bergamo"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Le sorgenti del fiume Adda, in quale provincia della Lombardia si trovano?",
+      "opzioni": [
+        "Sondrio",
+        "Lecco",
+        "Varese"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Sotto il monte, città natale di Papa Giovanni XXIII si trova in provincia di:",
+      "opzioni": [
+        "Brescia",
+        "Bergamo",
+        "Lecco"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Quali fiumi collega il canale Villoresi?",
+      "opzioni": [
+        "Adda-Lambro",
+        "Ticino-Olona",
+        "Ticino-Adda"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Dove si trova il Monte barro",
+      "opzioni": [
+        "in provincia di Lecco",
+        "in provincia di Lodi",
+        "provincia di Varese"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "In Lombardia un comune sorge isolato in territorio svizzero, si tratta di:",
+      "opzioni": [
+        "campione d'Italia",
+        "Castiglione Olona",
+        "Lavena-Ponte Tresa"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Verbano e il nome di quale Lago:",
+      "opzioni": [
+        "Lago Maggiore",
+        "Lago d'Iseo",
+        "Lago di Garda"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Mantova è bagnata da quale fiume:",
+      "opzioni": [
+        "Mincio",
+        "Serio",
+        "Bozzente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "in quale di queste tre province si trova Bellagio",
+      "opzioni": [
+        "Varese",
+        "Sondrio",
+        "Como"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "la cittadina di Bosisio Parini si affaccia su un piccolo Lago:",
+      "opzioni": [
+        "Lago d'idro",
+        "Lago di Lecco",
+        "Lago di Pusiano"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Calolziocorte si trova in provincia di:",
+      "opzioni": [
+        "Bergamo",
+        "Lodi",
+        "Lecco"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "la Lomellina è una zona della provincia di:",
+      "opzioni": [
+        "Pavia",
+        "Milano",
+        "Lecco"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Quale città della Lombardia è bagnata dal fiume Ticino:",
+      "opzioni": [
+        "Varese",
+        "Mantova",
+        "Pavia"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Uno di queste province non si affaccia sul Lago d'iseo, quale?",
+      "opzioni": [
+        "Brescia",
+        "Cremona",
+        "Bergamo"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "il capoluogo di provincia più meridionale della Lombardia e:",
+      "opzioni": [
+        "Como",
+        "Cremona",
+        "Pavia"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "il fiume Brembo e affluente del fiume:",
+      "opzioni": [
+        "Po",
+        "Mincio",
+        "Adda"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "il fiume Oglio attraversa:",
+      "opzioni": [
+        "Ponte di Legno",
+        "Ponte Chiasso",
+        "Seriate"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "il fiume Mincio è emissario del:",
+      "opzioni": [
+        "Lago di Como",
+        "Lago di Garda",
+        "Lago maggiore"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Qual è il passo più alto della Lombardia?",
+      "opzioni": [
+        "passo Gavia",
+        "passo di croce Domini",
+        "passo dello Stelvio"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "la provincia di Mantova confina con:",
+      "opzioni": [
+        "Il Trentino Alto Adige",
+        "L'Emilia Romagna",
+        "Il Piemonte"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Lario è il nome di quale Lago:",
+      "opzioni": [
+        "Lago di Como",
+        "Lago d'iseo",
+        "Lago maggiore"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "il passo del Tonale si trova nella provincia di:",
+      "opzioni": [
+        "Varese",
+        "Lecco",
+        "Brescia"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Quale città, capoluogo di provincia , e bagnata dai tre laghi?",
+      "opzioni": [
+        "Mantova",
+        "Varese",
+        "Lecco"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Tra il Lago di Como e quello di Lugano si estende:",
+      "opzioni": [
+        "La Val d'Intelvi",
+        "la Valsassina",
+        "La Val di Scalve"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Dov'è localizzato il parco delle Groane?",
+      "opzioni": [
+        "a est di Milano",
+        "a nord di Milano",
+        "a sud di Milano"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Castellanza situata tra:",
+      "opzioni": [
+        "Legnano e Busto Arsizio",
+        "Gallarate e Busto Arsizio",
+        "Desio e Seregno"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "il Lago di Mezzola si trova nella provincia di:",
+      "opzioni": [
+        "Brescia",
+        "Cremona",
+        "Sondrio"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "la principale località Lombarda del Parco Nazionale dello Stelvio è",
+      "opzioni": [
+        "Bormio",
+        "Clusone",
+        "Cantù"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Quale dei seguenti fiumi interessa la provincia di Varese?",
+      "opzioni": [
+        "Ticino",
+        "Brembo",
+        "Agogna"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Rivolta d'Adda e in provincia di:",
+      "opzioni": [
+        "Cremona",
+        "Lecco",
+        "Bergamo"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "la Grigna è:",
+      "opzioni": [
+        "una montagna delle Prealpi",
+        "una località della Val Brembana",
+        "una collina dell'Oltrepò"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "A quale di queste province appartiene la Val di Scalve?",
+      "opzioni": [
+        "Como",
+        "Bergamo",
+        "Pavia"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Monteisola è:",
+      "opzioni": [
+        "Una località turistica vicino a Livigno",
+        "un'isola del Lago d'iseo",
+        "una collina nei pressi del Lago d'Endine"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Quale di queste località si affaccia sul Lago maggiore?",
+      "opzioni": [
+        "Laveno",
+        "Bellagio",
+        "paratico"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "la provincia di Pavia confina:",
+      "opzioni": [
+        "con il Veneto",
+        "con l'Emilia Romagna",
+        "con la Svizzera"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "il Po attraversa la provincia di",
+      "opzioni": [
+        "Pavia",
+        "Bergamo",
+        "Varese"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Quale fiume attraversa la Valcamonica?",
+      "opzioni": [
+        "l’ Adda",
+        "l' Oglio",
+        "il Ticino"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Quale di questi passi si trova in Lombardia",
+      "opzioni": [
+        "Falzarego",
+        "Sempione",
+        "Gavia"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Quale di queste regioni non si affaccia sul Lago di Garda?",
+      "opzioni": [
+        "Il Trentino Alto Adige",
+        "Il Friuli Venezia Giulia",
+        "Il Veneto"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Quali province lombarde bagna il fiume Po",
+      "opzioni": [
+        "Pavia-Cremona-Mantova-Piacenza",
+        "Pavia-Mantova-Cremona",
+        "Pavia-Cremona-Mantova-Lodi"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "In quale di queste tre province si trova Sabbioneta?",
+      "opzioni": [
+        "Lodi",
+        "Cremona",
+        "Mantova"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Quale fiume forma il Lago d'Iseo?",
+      "opzioni": [
+        "l'Oglio",
+        "il Brembo",
+        "il Serio"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "la Valceresio interessa il territorio della provincia di:",
+      "opzioni": [
+        "Como",
+        "Varese",
+        "Sondrio"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Come è denominata la zona dell'entroterra del Lago di Garda verso Mantova",
+      "opzioni": [
+        "Colli Euganei",
+        "Colli Morenici o Colli Storici",
+        "Col di Lana"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Quale di questi fiumi sfocia direttamente nel Po?",
+      "opzioni": [
+        "Brembo",
+        "Olona",
+        "Serio"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Una di queste località termali non è in Lombardia",
+      "opzioni": [
+        "Boario Terme",
+        "Bognanco Terme",
+        "Salice Terme"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "il passo dello Spluga collega:",
+      "opzioni": [
+        "la regione Svizzera dei grigioni con la Val Chiavenna",
+        "la Valtellina con il Trentino Alto Adige",
+        "la provincia di Brescia con il Trentino Alto Adige"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "il Lago di annone si trova:",
+      "opzioni": [
+        "in Brianza",
+        "nell'Oltrepò pavese",
+        "nell'alto mantovano"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Con quante regioni italiane confina la Lombardia?",
+      "opzioni": [
+        "3",
+        "4",
+        "5"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Uno di questi fiumi non è un confine naturale della Lombardia",
+      "opzioni": [
+        "il Ticino",
+        "il Po",
+        "l 'Adda"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "è un comune della provincia di Lodi:",
+      "opzioni": [
+        "Paullo",
+        "Codogno",
+        "Locate Triulzi"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "è un comune della provincia di Lecco:",
+      "opzioni": [
+        "Valmadrera",
+        "Dorno",
+        "Dongo"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Uno di questi laghi non è in Lombardia:",
+      "opzioni": [
+        "Lago di Alserio",
+        "Lago di Annone",
+        "Lago di Viverone"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "il Comune di campione d'Italia a quale provincia appartiene?",
+      "opzioni": [
+        "alla provincia di Milano",
+        "alla provincia di Como",
+        "a nessuna, è territorio svizzero"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "la città di Sesto San Giovanni ha un numero di abitanti pari a:",
+      "opzioni": [
+        "più di 110.000",
+        "tra 40.000 e 50.000",
+        "tra 70.000 e 100.000"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "la città di Cinisello Balsamo ha un numero di abitanti pari a:",
+      "opzioni": [
+        "tra 50.000 e 80.000",
+        "meno di 40.000",
+        "più di 90.000"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "la città di Legnano ha un numero di abitanti pari a:",
+      "opzioni": [
+        "meno di 30.000",
+        "tra 40.00 e 60.000",
+        "più di 70.000"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "la città di Rho ha un numero di abitanti pari a:",
+      "opzioni": [
+        "tra 20.000 e 30.000",
+        "più di 80.000",
+        "tra 40.000 e 60.000"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "la città di Cologno Monzese ha un numero di abitanti pari a:",
+      "opzioni": [
+        "tra 20.000 e 30.000",
+        "tra 40.000 e 60.000",
+        "più di 70.000"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "la città di Vigevano ha un numero di abitanti pari a:",
+      "opzioni": [
+        "tra 40.000 e 70.000",
+        "tra 20.0000 e 30.000",
+        "tra 80.000 e 100.000"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "la città di Busto Arsizio ha un numero di abitanti pari a:",
+      "opzioni": [
+        "tra 60.000 e 90.000",
+        "tra 20.000 e 50.000",
+        "più di 100.000"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Quale di questi comuni non è in provincia di Pavia?",
+      "opzioni": [
+        "Stradella",
+        "Tortona",
+        "Mortara"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "il passo del Tonale collega:",
+      "opzioni": [
+        "la provincia di Cremona con l'Emilia Romagna",
+        "la provincia di Brescia con il Trentino Alto Adige",
+        "La Svizzera con la provincia di Sondrio"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Castiglione Olona denominata “isola di Toscana in Lombardia” si trova:",
+      "opzioni": [
+        "In provincia di Milano",
+        "in provincia di Pavia",
+        "in provincia di Varese"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Dov'è sito il palazzo della Triennale di Milano?",
+      "opzioni": [
+        "in prossimità della “Darsena” di porta ticinese",
+        "in prossimità di città studi",
+        "in prossimità del “parco Sempione”"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Non è considerata una “stazione sciistica”:",
+      "opzioni": [
+        "Madesimo",
+        "Varzi",
+        "Monte Penice"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Dove si trova Villa Olmo, sede di un'importante centro di congressi?",
+      "opzioni": [
+        "sul Lago di Garda",
+        "sul Lago di Como",
+        "sul Lago di Pusiano"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Cosa si intende per “Triangolo Lariano”?",
+      "opzioni": [
+        "Il territorio compreso tra Milano Pavia e Lodi",
+        "il territorio compreso tra i rami del Lago di Como",
+        "un'area montana del Bergamasco"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "è il secondo nome del Lago di Lugano",
+      "opzioni": [
+        "iridio",
+        "Ceresio",
+        "Verbano"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "interessa il territorio di due province della Lombardia:",
+      "opzioni": [
+        "il Lago di Lugano",
+        "il Lago di Garda",
+        "il Lago d'idro"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Geografia",
+      "testo": "Quale corso d'acqua attraversa la città di Sondrio:",
+      "opzioni": [
+        "il Mallero",
+        "il Ticino",
+        "l'Oglio"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Normativa Statale e Regionale",
+      "testo": "Ai sensi dell’art. 2 della legge 15 gennaio 1992 N. 21, chi stabilisce sanzioni amministrative per l’inosservanza dell’obbligo del servizio taxi nelle aree comunali o comprensoriali?",
+      "opzioni": [
+        "Le regioni",
+        "Le camere di Commercio Industria Artigianato e Agricoltura",
+        "Gli organi di Polizia Stradale"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Normativa Statale e Regionale",
+      "testo": "L’art. 14 “disposizioni particolari” della legge 15 gennaio 1992 n. 21 regolamenta tra l’altro:",
+      "opzioni": [
+        "le sanzioni amministrative per l’inosservanza delle tariffe del servizio taxi",
+        "l’accessibilità per i servizi taxi e autonoleggio a tutti i soggetti portatori di handicap",
+        "l’accesso al carico negli scali aeroportuali"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Normativa Statale e Regionale",
+      "testo": "Il titolare di licenza taxi può essere sostituito, ai sensi dell’art. 10 della legge 15 gennaio 1992 n. 21, per motivi di salute o inabilità temporanea:",
+      "opzioni": [
+        "da altro titolare di licenza taxi di altro comune",
+        "da persone iscritte nel ruolo di cui art. 6 della legge 15 gennaio 1992 n. 21",
+        "da persone designate dal Prefetto"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Normativa Statale e Regionale",
+      "testo": "Le autovetture adibite al servizio di noleggio con conducente, secondo l’art.12 comma 5 della Legge 15 gennaio 1992 n 21, portano, tra l’altro, una targa:",
+      "opzioni": [
+        "inamovibile anteriore con la dicitura “N”",
+        "adesiva posteriore con la dicitura “NC”",
+        "posteriore inamovibile recante la dicitura “NCC”"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Normativa Statale e Regionale",
+      "testo": "Ai sensi dell’art. 9 della legge 15 gennaio 1992 n.21, la licenza per l’esercizio del servizio taxi e l’autorizzazione del servizio di autonoleggio con conducente, sono trasferite su richiesta del titolare, a persona dallo stesso designata, iscritta al ruolo ed in possesso dei requisiti prescritti, purchè il titolare abbia:",
+      "opzioni": [
+        "raggiunto il sessantesimo anno d’età",
+        "raggiunto il sessantacinquesimo anno d’età",
+        "raggiunto il sessantesimo anno d’età o almeno trentacinque anni d’esercizio di dell’attività"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Normativa Statale e Regionale",
+      "testo": "Entro quanto tempo, dall’entrata in vigore della Legge 15 gennaio 1992 n.21, i regolamenti comunali per il servizio taxi e noleggio con conducente sono resi conformi alla legge stessa in base al secondo comma dell’art. 15 della medesima legge?",
+      "opzioni": [
+        "Entro un anno",
+        "Entro tre anni",
+        "Entro due anni"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Normativa Statale e Regionale",
+      "testo": "Ai sensi dell’art. 5 della L. 21/92, chi stabilisce i requisiti e le condizioni per il rilascio delle licenze taxi e le autorizzazioni NCC?",
+      "opzioni": [
+        "La Regione",
+        "Il Comune",
+        "La Provincia"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Normativa Statale e Regionale",
+      "testo": "I titolari di licenza taxi e di autorizzazione di noleggio con conducente, al fine del libero esercizio della propria attività, ai sensi dell’art 7 della legge 15 gennaio 1992 n.21, possono:",
+      "opzioni": [
+        "associarsi in consorzio tra imprese artigiane e in tutte le altre forme previste dalla legge",
+        "essere imprenditori privati per svolgere esclusivamente l’esercizio di taxi in due o più comuni",
+        "essere imprenditori pubblici"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Normativa Statale e Regionale",
+      "testo": "La prestazione del servizio di noleggio con conducente, come stabilito dall’art 13 della Legge 15 Gennaio 1992 n.21 è:",
+      "opzioni": [
+        "obbligatoria",
+        "tassativa solo se richiesta per motivi di estrema necessità",
+        "non obbligatoria"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Normativa Statale e Regionale",
+      "testo": "Ai sensi dell’art. 2 della Legge 15 Gennaio 1992 n.21, il servizio taxi è rivolto ad una utenza di tipo:",
+      "opzioni": [
+        "collettiva differenziata",
+        "indifferenziata individuale o di piccoli gruppi di persone",
+        "individuale differenziata"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti delle autopubbliche hanno l'obbligo , tra l'altro , durante la corsa:",
+      "opzioni": [
+        "di ammettere sull'autovettura persone estranee a quelle che hanno richiesto il servizio , senza il consenso di queste ultime",
+        "di effettuare il servizio di trasporto di bambini non accompagnati da persona maggiorenne",
+        "di ultimare la corsa anche se , nel frattempo , è scaduto il turno"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra i doveri prescritti per i conducenti di vetture da piazza è previsto:",
+      "opzioni": [
+        "compiere il percorso più breve per raggiungere la destinazione richiesta e comunque il percorso indicato dall'utente",
+        "nel caso di rinvenimento di qualsiasi oggetto smarrito , aprire una ricerca per riconsegnare l'oggetto al legittimo proprietario",
+        "interrompere di propria iniziativa il servizio quando si venga richiesti per altro più vantaggioso"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "al termine del servizio , il conducente della vettura taxi deve:",
+      "opzioni": [
+        "aprire la portiera dell'autovettura sul lato scorrimento dei veicoli ed aiutare a scendere i passeggeri",
+        "far prendere visione all'utente del prezzo della corsa e quindi azzerare il tassametro",
+        "pretendere compensi oltre il prezzo segnato sul tassametro ed i supplementi dovuti"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i taxi in turno di servizio sostano:",
+      "opzioni": [
+        "temporaneamente presso gli alberghi scelti dal conducente purchè non rechino intralcio alla circolazione dei veicoli",
+        "negli appositi posteggi e nel numero massimo consentito dalla segnaletica orizzontale tracciata a delimitazione degli stessi",
+        "nelle apposite autorimesse"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "gli autoveicoli destinati al servizio di autonoleggio con conducente sono sottoposti all'inizio del servizio e successivamente una volta all'anno a visite di controllo presso:",
+      "opzioni": [
+        "gli uffici della Polizia Stradale",
+        "gli uffici dell'Amministrazione Provinciale",
+        "l'ufficio Autopubbliche del Comune di Milano"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "l'autorizzazione per l'esercizio del servizio di autonoleggio da rimessa con conducente è rilasciata da:",
+      "opzioni": [
+        "Dirigente del Settore Trasporti e Mobilità del Comune",
+        "Consiglio Comunale",
+        "Consiglio Provinciale"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti degli autoservizi pubblici non di linea è vietato:",
+      "opzioni": [
+        "dialogare con l'utente",
+        "ammettere sull'autovettura persone estranee a quelle che hanno richiesto il servizio , se non con il consenso di queste ultime",
+        "avvertire immediatamente l'utente dei supplementi di tariffa applicabili"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra i doveri per i conducenti di autoveicoli in servizio di noleggio è previsto , tra l'altro , quello di:",
+      "opzioni": [
+        "controllare che il funzionamento del contachilometri sia regolare",
+        "svolgere il servizio assistiti da altro conducente",
+        "permettere agli utenti del servizio di fumare nell'autoveicolo"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra i requisiti per l'assegnazione delle autorizzazioni di autonoleggio con conducente è previsto quello di:",
+      "opzioni": [
+        "aver presentato istanza presso la Provincia di Milano per sostenere l'esame per l'iscrizione al ruolo conducenti",
+        "essere già stato in passato titolare di licenza taxi o di autorizzazione per il servizio di autonoleggio da rimessa con conducente a mezzo autovettura",
+        "avere un'età non superiore ai 55 anni"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "il prezzo del servizio di autonoleggio da rimessa con conducente è:",
+      "opzioni": [
+        "quello che risulta convenuto tra l'esercente del servizio e l'utente",
+        "quello indicato dal tassametro",
+        "quello determinato da tariffe fissate dall'amministrazione provinciale"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "il titolare di licenza taxi deve comunicare entro 30 giorni le variazioni di indirizzo:",
+      "opzioni": [
+        "al Settore Trasporti e Mobilità del Comune di Milano",
+        "al Settore Trasporto Pubblico della Provincia di Milano",
+        "alla Camera di Commercio , Industria , Artigianato ed Agricoltura di Milano"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "chi approva i regolamenti comunali per gli autoservizi pubblici non di linea?",
+      "opzioni": [
+        "Comune",
+        "Regione",
+        "Provincia"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di taxi all'inizio della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "segnalare tempestivamente la svolta a sinistra",
+        "aiutare a salire le persone e caricare i bagagli di cui è consentito il trasporto",
+        "azionare il segnalatore acustico contestualmente alla salita dell'utente"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di taxi durante l'effettuazione della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "sospendere la corsa solo per consumare il pasto",
+        "mettere a disposizione dell'utente la stampa quotidiana",
+        "mantenere in funzione il tassametro e controllare il suo regolare funzionamento"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "da chi è esercitata la vigilanza urbana sul servizio taxi?",
+      "opzioni": [
+        "dalla Prefettura",
+        "dall'amministrazione comunale",
+        "dalla Provincia"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "le tariffe e le condizioni di trasporto del servizio taxi sono determinate:",
+      "opzioni": [
+        "dalla Giunta comunale",
+        "dalla Giunta provinciale",
+        "dal Dirigente del Settore Trasporti e Mobilità del Comune di Milano"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "la licenza dell'esercizio del servizio taxi è rilasciata da:",
+      "opzioni": [
+        "Direttore del Settore Trasporto Pubblico della Provincia di Milano",
+        "Consiglio Comunale",
+        "Dirigente del Settore Trasporti e Mobilità del Comune di Milano"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "la licenza d'esercizio può essere revocata da:",
+      "opzioni": [
+        "Comune",
+        "Provincia",
+        "Regione"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di taxi al termine della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "recapitare ad altro indirizzo il bagaglio dell'utente con pagamento anticipato della corsa",
+        "accertare che l'utente non abbia smarrito alcun oggetto all'interno dell'autovettura",
+        "appropriarsi di qualsiasi oggetto smarrito all'interno dell'autovettura"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "qual è la colorazione delle autovetture adibite al servizio taxi? (art.2a)",
+      "opzioni": [
+        "quella determinata dalle disposizioni di legge vigenti in materia",
+        "Gialla",
+        "quella determinata dal regolamento regionale"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "le autovetture adibite al servizio taxi possono recare stemmi identificativi del comune? (art.2b)",
+      "opzioni": [
+        "si , solo nella parte posteriore",
+        "si , solo nella parte anteriore",
+        "si , solo sulle portiere laterali"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "lo stampato contenente le tariffe da chi viene fornito? (art.5)",
+      "opzioni": [
+        "dal Comune",
+        "dalla Provincia",
+        "dalla Regione"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "dove deve essere posto il tassametro? (art.6)",
+      "opzioni": [
+        "in posizione ben visibile da parte degli utenti",
+        "al di sotto della lato superiore del piantone dello sterzo",
+        "sulla parte superiore del parabrezza"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i sigilli di garanzia applicati all'impianto tassametrico da chi vengono apposti?",
+      "opzioni": [
+        "dall'Ufficio Comunale competente",
+        "dall'Ufficio periferico del Dipartimento dei Trasporti Terrestri",
+        "dal competente Settore della Provincia di Milano"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "è possibile utilizzare un'autovettura adibita a servizio taxi per uso proprio? (art.27)",
+      "opzioni": [
+        "no , mai",
+        "si , con specifico nulla osta dell'Amministratore comunale",
+        "si , se è fuori servizio"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "quando l'autopubblica è fuori servizio può eccezionalmente effettuare alcune corse? (art.27)",
+      "opzioni": [
+        "no , mai",
+        "si , se è richiesto dalle Forze dell'ordine",
+        "si , in caso di necessità"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "il servizio taxi ha lo scopo di soddisfare le richieste individuali? (art.1)",
+      "opzioni": [
+        "si",
+        "no , può essere richiesto anche da piccoli gruppi",
+        "si , perché è vietato trasportare persone con diversa direttrice e diversa destinazione"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "il servizio taxi può essere svolto solamente con autovetture da piazza? ( art.1)",
+      "opzioni": [
+        "si",
+        "no , può essere svolto anche con minibus",
+        "no , può essere svolto anche con minibus ma con autorizzazione comunale"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "qual è lo scopo del servizio taxi? (art.1)",
+      "opzioni": [
+        "quello di soddisfare esigenze di trasporto individuale",
+        "quello di soddisfare esigenze di trasporto individuale o di piccoli gruppi",
+        "quello di soddisfare esigenze di trasporto di qualsiasi genere , anche con contrato di noleggio"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "chi può essere titolare di licenza per l'esercizio del servizio taxi? (art.9)",
+      "opzioni": [
+        "la persona singola",
+        "la persona giuridica",
+        "qualsiasi società di capitali"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "come viene assegnata la licenza per l'esercizio del servizio taxi? (art.9)",
+      "opzioni": [
+        "mediante concorso pubblico",
+        "mediante iscrizione al ruolo conducenti",
+        "a seguito di denuncia di inizio del servizio"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "come viene assegnata l'autorizzazione per il servizio di noleggio con conducente? (art.6)",
+      "opzioni": [
+        "mediante concorso pubblico",
+        "mediante iscrizione al ruolo dei conducenti",
+        "a seguito di denuncia di inizio del servizio"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra i requisiti per l'assegnazione di licenza taxi è previsto quello di: (art.9)",
+      "opzioni": [
+        "essere già stato in passato titolare di licenza taxi o di autorizzazione per il servizio di autonoleggio da rimessa con conducente a mezzo autovettura",
+        "non essere titolare contemporaneamente di altra autorizzazione o concessione amministrativa",
+        "avere presentato istanza presso la Provincia di Milano per sostenere l'esame per l'iscrizione al ruolo dei conducenti"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra i requisiti per l'assegnazione di licenza taxi è previsto quello di: (art.9)",
+      "opzioni": [
+        "non essere già stato in passato titolare di licenza taxi o di autorizzazione per il servizio di autonoleggio da rimessa con conducente a mezzo autovettura",
+        "avere un'età superiore ai 55 anni",
+        "avere presentato istanza presso la Provincia di Milano per sostenere l'esame per l'iscrizione al ruolo dei conducenti"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "la licenza taxi può essere trasferita se il titolare si trova in una delle seguenti condizioni: (art.10)",
+      "opzioni": [
+        "è titolare di licenza da almeno quattro anni",
+        "ha raggiunto il sessantesimo anno d'età",
+        "ha raggiunto il cinquantacinquesimo anno d'età"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "l'autorizzazione per l'esercizio del servizio di autonoleggio con conducente può essere trasferita se il titolare si trova in una delle seguenti condizioni: (art.7)",
+      "opzioni": [
+        "è titolare di autorizzazione da cinque anni",
+        "ha raggiunto il cinquantacinquesimo anno d'età",
+        "non aver raggiunto il sessantesimo anno d'età"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "in caso di morte del titolare , a chi può essere trasferita la licenza taxi? (art.11)",
+      "opzioni": [
+        "ad uno degli eredi appartenenti al nucleo familiare del defunto",
+        "ai soli figli maggiorenni , anche se non ancora in possesso del CAP",
+        "a qualsiasi erede in linea indiretta"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "qual è l'autorità che consente il rinnovo dell'autorizzazione per l'esercizio del servizio di autonoleggio con conducente? (art.8)",
+      "opzioni": [
+        "la Provincia",
+        "la Regione",
+        "il Comune"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i titolari di licenza taxi possono essere sostituiti alla guida? (art.16)",
+      "opzioni": [
+        "si , solo temporaneamente e per motivi specifici",
+        "si , solo definitivamente",
+        "no , mai"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "come viene regolato il rapporto di lavoro tra il taxista ed il sostituto alla guida? (art.16)",
+      "opzioni": [
+        "con un contratto di prestazione d'opera",
+        "con un contratto di lavoro a tempo determinato o con un contratto di gestione per un termine non superiore a sei mesi",
+        "la gestione avviene in modo informale"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "dove avviene la sosta delle autopubbliche in turno di servizio? (art.23)",
+      "opzioni": [
+        "nella propria rimessa",
+        "liberamente , secondo quanto stabilito dal codice della strada",
+        "negli appositi posteggi"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra i contrassegni che contraddistinguono il servizio di autonoleggio con conducente vi è: (art.15)",
+      "opzioni": [
+        "sul lunotto posteriore , in modo interamente visibile , quello con la scritta \"NOLEGGIO\"",
+        "la scritta \"NOLEGGIO\" dipinta sulla fiancata destra",
+        "un contrassegno luminoso , posto sul tetto , con la scritta \"NCC\""
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra gli obblighi del conducente di autopubblica durante la corsa è previsto quello di: (art.33)",
+      "opzioni": [
+        "allacciare la cintura di sicurezza",
+        "effettuare il percorso più breve , salvo che l'utente non chieda di seguire un percorso diverso",
+        "interrompere la corsa se nel frattempo è scaduto il turno"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra gli obblighi dei conducenti di autoveicoli in servizio di noleggio è previsto quello di: (art.20)",
+      "opzioni": [
+        "interrompere di propria iniziativa il servizio se nel frattempo è terminato il turno",
+        "tenere nell'autoveicolo cose che non abbiano attinenza col servizio",
+        "controllare che il funzionamento del contachilometri sia regolare"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra i doveri dei conducenti di autopubbliche in servizio è previsto quello di: (art.29)",
+      "opzioni": [
+        "essere provvisti di una guida aggiornata delle vie e delle piazze comprese nel territorio comunale",
+        "interrompere la corsa se nel frattempo è scaduto il turno",
+        "chiedere compensi oltre il prezzo segnato sul tassametro"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra gli obblighi dei conducenti di autoveicoli in servizio di noleggio è previsto quello di: (art.20)",
+      "opzioni": [
+        "interrompere la corsa se nel frattempo è scaduto il turno",
+        "controllare che il funzionamento del contachilometri sia regolare",
+        "chiedere compensi ulteriori al prezzo convenuto nel caso si sia dovuto prolungare il tragitto per cause di forza maggiore"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra gli atti vietati ai conducenti di autopubbliche in servizio è previsto quello di: (art.30)",
+      "opzioni": [
+        "ammettere sull'autovettura persone estranee a quelle che hanno richiesto il servizio",
+        "caricare i bagagli degli utenti di cui è consentito il trasporto",
+        "ammettere sull'autovettura persone estranee a quelle che hanno richiesto il servizio , se non con il consenso di queste ultime"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra gli obblighi dei conducenti di autopubbliche durante la corsa è previsto quello di: (art.33)",
+      "opzioni": [
+        "ultimare la corsa se nel frattempo è scaduto il turno",
+        "mettere a disposizione dell'utente la stampa quotidiana",
+        "ammettere sull'autovettura persone estranee a quelle che hanno richiesto il servizio , senza il consenso di queste ultime"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra gli obblighi dei conducenti di autopubbliche al termine della corsa è previsto quello di: (art.34)",
+      "opzioni": [
+        "attendere che l'utente scenda , azionando contestualmente la segnalazione d'emergenza (quattro frecce)",
+        "azzerare il tassametro",
+        "recapitare il bagaglio dimenticato dall'utente , con pagamento della corsa"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "per quali motivi può essere , tra l'altro , revocata la licenza taxi? (art.40)",
+      "opzioni": [
+        "per mancato rispetto dell'orario di servizio",
+        "per inottemperanza all'obbligo di presentarsi alla visita straordinaria di controllo",
+        "per aver manomesso il tassametro al fine di alterarne il funzionamento"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra gli obblighi dei conducenti di autopubbliche al termine della corsa è previsto quello di: (art.34)",
+      "opzioni": [
+        "far prendere visione all'utente del prezzo della corsa specificando gli eventuali supplementi tariffari applicati",
+        "recapitare il bagaglio dimenticato dall'utente , con pagamento della corsa",
+        "ammettere sull'autovettura persone estranee a quelle che hanno richiesto il servizio , senza il consenso di queste ultime"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "gli incaricati della sorveglianza devono ritirare la licenza d'esercizio quando accertino , tra l'altro , che: (art.37)",
+      "opzioni": [
+        "l'autopubblica è il circolazione senza aver ottemperato all'obbligo si presentarsi alla visita straordinaria di controllo",
+        "il titolare abbia manomesso il tassametro al fine di alterarne il funzionamento",
+        "il titolare non abbia controllato il regolare funzionamento del contachilometri"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "è possibile cumulare più licenze per l'esercizio del servizio taxi in capo al medesimo soggetto? (art.6)",
+      "opzioni": [
+        "solo se non è una persona fisica",
+        "no",
+        "solo se esso è associato ad una cooperativa"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra i doveri prescritti per i conducenti di vetture da piazza è previsto:",
+      "opzioni": [
+        "effettuare il servizio di trasporto di bambini non accompagnati",
+        "rilasciare ricevuta firmata con i dati identificativi della corsa e del conducente",
+        "tenere un comportamento corretto nei confronti dei passeggeri trasportati"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra i doveri prescritti per i conducenti di vetture da piazza è previsto:",
+      "opzioni": [
+        "sospendere immediatamente il servizio in caso di guasto al veicolo",
+        "nel caso di rinvenimento di qualsiasi oggetto smarrito , aprire una ricerca per riconsegnare l'oggetto al legittimo proprietario",
+        "interrompere di propria iniziativa il servizio quando si venga richiesti per altro più vantaggioso"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di vetture taxi non possono:",
+      "opzioni": [
+        "pretendere compensi oltre il prezzo segnato sul tassametro ed i supplementi dovuti",
+        "sostare in attesa dei clienti nei posteggi",
+        "vestire con decoro"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "al termine del servizio , il conducente della vettura taxi deve:",
+      "opzioni": [
+        "aprire la portiera dell'autovettura , sul lato scorrimento dei veicoli , ed aiutare a scendere i passeggeri",
+        "far prendere visione all'utente del prezzo della corsa e quindi azzerare il tassametro",
+        "pretendere compensi oltre al prezzo segnato sul tassametro ed i supplementi dovuti"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "l'attesa del servizio taxi avviene:",
+      "opzioni": [
+        "attraverso lo stazionamento presso gli alberghi scelti dal conducente del veicolo ed elencati sulla licenza",
+        "attraverso la sosta in appositi posteggi assegnati",
+        "attraverso lo stazionamento in apposite rimesse"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti dei servizi taxi e/o autonoleggio è vietato:",
+      "opzioni": [
+        "accettare utenti tra i passeggeri in attesa presso la stazione",
+        "chiedere il pagamento dell'importo del servizio prestato",
+        "adibire il veicolo a servizi su itinerari fissi con orari e tariffe prestabilite"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di autovetture da piazza hanno l'obbligo:",
+      "opzioni": [
+        "di fumare in servizio",
+        "di rilasciare , a richiesta del cliente , una ricevuta attestante l'importo della corsa",
+        "di allontanarsi dal veicolo quando è in servizio"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di autovetture da piazza hanno l'obbligo:",
+      "opzioni": [
+        "di essere provvisti di una guida aggiornata delle vie e piazze comprese nel territorio comunale",
+        "interrompere di propria iniziativa il servizio quando si venga richiesti per un altro più vantaggioso",
+        "recapitare i bagagli sulla soglia di casa dell'utente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti dei taxi e delle vetture da noleggio è vietato:",
+      "opzioni": [
+        "dialogare con l'utente",
+        "ammettere sull'autovettura persone estranee a quelle che hanno richiesto il servizio",
+        "avvertire immediatamente l'utente dei supplementi di tariffa applicabili"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti degli autoservizi pubblici non di linea è vietato:",
+      "opzioni": [
+        "tenere sull'autovettura cani propri",
+        "tenere con gli utenti un contegno corretto",
+        "seguire le indicazioni di percorso fornite dall'utente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti delle autopubbliche è vietato:",
+      "opzioni": [
+        "controllare il regolare funzionamento del tassametro e/o del contachilometri",
+        "verificare con attenzione i consumi di carburante al fine di limitare i danni ecologici indotti",
+        "adibire l'autovettura alla vendita od al trasporto di masserizie ingombranti"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti delle autopubbliche è vietato:",
+      "opzioni": [
+        "interrompere spontaneamente il turno di servizio o la corsa eccettuati i casi di forza maggiore",
+        "sostituire la ruota in caso di foratura",
+        "percorrere senza autorizzazione dell'utente le strade statali"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di taxi all'inizio della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "azionare il tassametro ed assicurarsi che lo stesso funzioni regolarmente",
+        "pulire accuratamente il veicolo in ogni sua parte",
+        "richiamare l'attenzione della vigilanza urbana per verificare l'attendibilità dell'utente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di taxi hanno l'obbligo di:",
+      "opzioni": [
+        "misurare la pressione degli pneumatici prima di ogni servizio",
+        "avvertire immediatamente l'utente dell'avvicinarsi della destinazione",
+        "avere a bordo del veicolo la licenza comunale ed i documenti di circolazione"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di taxi all'inizio della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "segnalare tempestivamente la svolta a sinistra",
+        "caricare i bagagli di cui è consentito il trasporto senza deteriorare il veicolo",
+        "azionare il segnalatore acustico contestualmente alla salita dell'utente"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di taxi hanno l'obbligo di:",
+      "opzioni": [
+        "sospendere la corsa solo per consumare il pasto",
+        "mettere a disposizione dell'utente la stampa quotidiana",
+        "applicare il cartello \"FUORI SERVIZIO\" al termine di ciascun turno e quando la vettura è usata per scopi familiari"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di taxi durante l'effettuazione della corsa hanno il divieto di:",
+      "opzioni": [
+        "mangiare e/o tenere la radio ad alto volume",
+        "mangiare e fumare , se autorizzati dall'utente",
+        "dialogare con l'utente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di taxi durante l'effettuazione della corsa hanno il divieto di:",
+      "opzioni": [
+        "seguire le indicazioni di percorso fornite dall'utente",
+        "fare schiamazzi ed azionare continuamente i dispositivi acustici di segnalazione",
+        "fermarsi con il semaforo che proietta luce rossa"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di taxi durante l'effettuazione della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "prodigarsi per portare a destinazione l'utente , anche se il veicolo si guasta",
+        "prevedere l'importo definitivo e contrattare con l'utente il corrispettivo",
+        "concordare e programmare in accordo con l'utente più viaggi o percorsi"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di taxi durante il servizio hanno l'obbligo di:",
+      "opzioni": [
+        "verificare la consistenza del bagaglio",
+        "pretendere il pagamento anticipato della corsa successiva",
+        "essere sempre muniti di una congrua quantità di moneta spicciola per essere in grado di corrispondere al cliente il resto"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di taxi hanno l'obbligo di:",
+      "opzioni": [
+        "disimpegnare il servizio con ogni decoro",
+        "acquisire un'altra corsa attraverso l'utilizzo del telefono cellulare",
+        "perquisire con attenzione i bagagli"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di taxi al termine della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "recapitare ad altro indirizzo il bagaglio dell'utente , con pagamento della corsa anticipato",
+        "accertare che l'utente non abbia smarrito alcun oggetto all'interno dell'autovettura",
+        "appropriarsi di qualsiasi oggetto smarrito all'interno dell'autovettura"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra i doveri prescritti per i conducenti di vetture da piazza è previsto:",
+      "opzioni": [
+        "effettuare il servizio di trasporto di bambini non accompagnati",
+        "rilasciare ricevuta firmata con i dati identificativi della corsa e del conducente",
+        "tenere sempre un contegno corretto sia con il pubblico che con i colleghi"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra i doveri prescritti per i conducenti di vetture da piazza:",
+      "opzioni": [
+        "compiere il percorso più breve per raggiungere la destinazione richiesta e comunque il percorso indicato dall'utente",
+        "nel caso di rinvenimento di qualsiasi oggetto smarrito , aprire una ricerca per riconsegnare l'oggetto al legittimo proprietario",
+        "interrompere di propria iniziativa il servizio quando si venga richiesti per un altro più vantaggioso"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di vetture taxi non possono:",
+      "opzioni": [
+        "pretendere compensi oltre il prezzo segnato sul tassametro ed i supplementi dovuti",
+        "sostare in attesa dei clienti nei posteggi",
+        "vestire decorosamente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti dei taxi è vietato:",
+      "opzioni": [
+        "accettare il pagamento di supplementi oltre il prezzo della corsa , quando sono dovuti",
+        "fare servizio senza aver azionato il tassametro",
+        "interrompere il lavoro a fine turno di servizio"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "l'attesa del servizio taxi avviene:",
+      "opzioni": [
+        "attraverso lo stazionamento presso gli alberghi scelti dal conducente del veicolo ed elencati sulla licenza",
+        "attraverso la sosta in appositi posteggi stabiliti dall'Amministrazione comunale",
+        "attraverso lo stazionamento in apposite rimesse"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "al conducente di taxi in servizio è vietato:",
+      "opzioni": [
+        "accettare utenti tra i passeggeri in attesa presso la stazione",
+        "chiedere l'importo segnato dal tassametro a fine corsa",
+        "allontanarsi dall'autoveicolo in sosta in attesa di passeggeri"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di autovetture da piazza hanno l'obbligo:",
+      "opzioni": [
+        "di essere provvisti di una guida aggiornata delle vie e piazze comprese nel territorio comunale",
+        "interrompere di propria iniziativa il servizio quando si venga richiesti per un altro più vantaggioso",
+        "recapitare i bagagli sulla soglia di casa dell'utente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti dei taxi è vietato:",
+      "opzioni": [
+        "dialogare con l'utente",
+        "ammettere sull'autovettura persone estranee a quelle che hanno richiesto il servizio",
+        "avvertire immediatamente l'utente dei supplementi di tariffa applicabili"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti degli autoservizi pubblici non di linea è vietato:",
+      "opzioni": [
+        "tenere sull'autovettura persone e/o cani di proprietà del conducente",
+        "tenere con gli utenti un contegno corretto",
+        "seguire le indicazioni di percorso fornite dall'utente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti delle autopubbliche è vietato:",
+      "opzioni": [
+        "controllare il regolare funzionamento del tassametro e/o del contachilometri",
+        "verificare con attenzione i consumi del carburante al fine di limitare i danni ecologici indotti",
+        "adibire l'autovettura alla vendita ambulante di merci"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti delle autopubbliche è vietato:",
+      "opzioni": [
+        "interrompere spontaneamente il turno di servizio o la corsa eccettuati i casi di forza maggiore",
+        "sostituire la ruota in caso di foratura",
+        "percorrere senza autorizzazione dell'utente le strade statali"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di taxi all'inizio della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "azionare il tassametro ed assicurarsi che lo stesso funzioni regolarmente",
+        "pulire accuratamente il veicolo in ogni sua parte",
+        "richiamare l'attenzione della vigilanza urbana per verificare l'attendibilità dell'utente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi hanno l'obbligo di:",
+      "opzioni": [
+        "misurare la pressione degli pneumatici prima di ogni servizio",
+        "avvertire immediatamente l'utente dell'avvicinarsi della destinazione",
+        "avere a bordo del veicolo la licenza comunale ed i documenti di circolazione"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di taxi all'inizio della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "segnalare tempestivamente la svolta a sinistra",
+        "caricare i bagagli di cui è consentito il trasporto senza che deteriorino il veicolo o limitino la visuale del conducente",
+        "azionare il segnalatore acustico contestualmente alla salita dell'utente"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi durante l'effettuazione della corsa hanno il divieto di:",
+      "opzioni": [
+        "mangiare e fumare",
+        "mangiare e fumare , se autorizzati dall'utente",
+        "dialogare con l'utente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi durante l'effettuazione della corsa hanno il divieto di:",
+      "opzioni": [
+        "seguire le indicazioni di percorso fornite dall'utente",
+        "fare schiamazzi ed azionare continuamente i dispositivi acustici di segnalazione",
+        "fermarsi con il semaforo che proietta luce rossa"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi al termine della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "recapitare ad altro indirizzo il bagaglio dell'utente , con pagamento della corsa anticipato",
+        "accertare che l'utente non abbia smarrito alcun oggetto all'interno dell'autovettura",
+        "appropriarsi di qualsiasi oggetto smarrito all'interno dell'autovettura"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra i doveri prescritti per i conducenti di vetture da piazza è previsto:",
+      "opzioni": [
+        "effettuare il servizio di trasporto di bambini non accompagnati",
+        "rilasciare ricevuta firmata con i dati identificativi della corsa e del conducente",
+        "tenere un comportamento corretto e cortese nei confronti dei passeggeri trasportati"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra i doveri prescritti per i conducenti di vetture da piazza è previsto:",
+      "opzioni": [
+        "sospendere immediatamente il servizio in caso di guasto al tassametro",
+        "nel caso di rinvenimento di qualsiasi oggetto smarrito , aprire una ricerca per riconsegnare l'oggetto al legittimo proprietario",
+        "interrompere di propria iniziativa il servizio quando si venga richiesti per un altro più vantaggioso"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "al termine del servizio il conducente della vettura taxi deve:",
+      "opzioni": [
+        "aprire la portiera dell'autovettura sul lato scorrimento dei veicoli ed aiutare a scendere i passeggeri",
+        "far prendere visione all'utente del prezzo della corsa e quindi azzerare il tassametro",
+        "pretendere compensi oltre al prezzo segnato sul tassametro ed i supplementi dovuti"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "l'attesa del servizio taxi avviene:",
+      "opzioni": [
+        "attraverso lo stazionamento presso gli alberghi scelti dal conducente del veicolo ed elencati sulla licenza",
+        "attraverso la sosta in appositi posteggi assegnati dall'Amministrazione comunale",
+        "attraverso lo stazionamento in apposite rimesse"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "al conducente di taxi in servizio è vietato:",
+      "opzioni": [
+        "accettare utenti tra i passeggeri in attesa presso la stazione",
+        "chiedere l'importo segnato dal tassametro a fine corsa",
+        "abbandonare il veicolo in posteggio presso la stazione per cercare utenti tra i passeggeri in attesa all'interno della stessa"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di autovetture da piazza hanno l'obbligo:",
+      "opzioni": [
+        "di fumare in servizio",
+        "di vestire decorosamente",
+        "di allontanarsi dal veicolo quando è in servizio"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di autovetture da piazza hanno l'obbligo:",
+      "opzioni": [
+        "di essere provvisti di una guida aggiornata delle vie e piazze comprese nel territorio comunale",
+        "interrompere di propria iniziativa il servizio quando si venga richiesti per altro più vantaggioso",
+        "recapitare i bagagli sulla soglia di casa dell'utente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti dei taxi è vietato:",
+      "opzioni": [
+        "dialogare con l'utente",
+        "ammettere sull'autovettura persone estranee a quelle che hanno richiesto il servizio , se non con il consenso di queste ultime",
+        "avvertire immediatamente l'utente dei supplementi di tariffa applicabili"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti degli autoservizi pubblici non di linea è vietato:",
+      "opzioni": [
+        "tenere sull'autovettura persone , animali o cose che non abbiano attinenza con il servizio",
+        "tenere con gli utenti un contegno corretto",
+        "seguire le indicazioni di percorso fornite dall'utente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti delle autopubbliche è vietato:",
+      "opzioni": [
+        "controllare il regolare funzionamento del tassametro e/o del contachilometri",
+        "verificare con attenzione i consumi di carburante al fine  di limitare i danni ecologici indotti",
+        "adibire l'autovettura alla vendita od al trasporto di masserizie ingombranti"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti delle autopubbliche è vietato:",
+      "opzioni": [
+        "interrompere spontaneamente il turno di servizio o la corsa eccettuati i casi di forza maggiore",
+        "sostituire la ruota in caso di foratura",
+        "percorrere senza autorizzazione dell'utente le strade statali"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi all'inizio della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "azionare il tassametro ed assicurarsi che lo stesso funzioni regolarmente",
+        "pulire accuratamente il veicolo in ogni sua parte",
+        "richiamare l'attenzione della vigilanza urbana per verificare l'attendibilità dell'utente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi hanno l'obbligo di:",
+      "opzioni": [
+        "misurare la pressione degli pneumatici prima di ogni servizio",
+        "avvertire immediatamente l'utente dell'avvicinarsi della destinazione",
+        "avere a bordo del veicolo la licenza comunale ed i documenti di circolazione"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi all'inizio della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "segnalare tempestivamente la svolta a sinistra",
+        "caricare i bagagli di cui è consentito il trasporto",
+        "azionare il segnalatore acustico contestualmente alla salita dell'utente"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi hanno l'obbligo di:",
+      "opzioni": [
+        "sospendere la corsa solo per consumare il pasto",
+        "mettere a disposizione dell'utente la stampa quotidiana",
+        "applicare il cartello \"FUORI SERVIZIO\" al termine di ciascun turno e quando la vettura è usata per scopi familiari"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi durante l'effettuazione della corsa hanno il divieto di:",
+      "opzioni": [
+        "mangiare e fumare",
+        "mangiare e fumare , se autorizzati dall'utente",
+        "dialogare con l'utente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi durante l'effettuazione della corsa hanno il divieto di:",
+      "opzioni": [
+        "seguire le indicazioni di percorso fornite dall'utente",
+        "fare schiamazzi ed azionare continuamente i dispositivi acustici di segnalazione",
+        "fermarsi con il semaforo che proietta luce rossa"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi durante l'effettuazione della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "prodigarsi per portare a destinazione l'utente anche se il veicolo si guasta",
+        "prevedere l'importo definitivo e contrattare con l'utente il corrispettivo",
+        "concordare e programmare in accordo con l'utente più viaggi o percorsi"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi al termine della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "verificare la consistenza del bagaglio",
+        "pretendere il pagamento anticipato della corsa successiva",
+        "far prendere visione all'utente del prezzo della corsa e quindi azzerare il tassametro"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi al termine della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "aiutare educatamente a scendere le persone e scaricare i bagagli",
+        "acquisire un'altra corsa attraverso l'utilizzo del telefono cellulare",
+        "perquisire con attenzione i bagagli"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi al termine della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "recapitare ad altro indirizzo il bagaglio dell'utente con pagamento della corsa anticipato",
+        "accertare che l'utente non abbia smarrito alcun oggetto all'interno dell'autovettura",
+        "appropriarsi di qualsiasi oggetto smarrito all'interno dell'autovettura"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra i doveri prescritti per i conducenti di vetture da piazza è previsto:",
+      "opzioni": [
+        "effettuare il servizio di trasporto di bambini non accompagnati",
+        "rilasciare ricevuta firmata con i dati identificativi della corsa e del conducente",
+        "tenere un comportamento corretto in ogni circostanza"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "tra i doveri prescritti per i conducenti di vetture da piazza è previsto:",
+      "opzioni": [
+        "sospendere immediatamente il servizio in caso di guasto al veicolo oppure quando il tassametro non funziona regolarmente",
+        "nel caso di rinvenimento di qualsiasi oggetto smarrito , aprire una ricerca per riconsegnare l'oggetto al legittimo proprietario",
+        "interrompere di propria iniziativa il servizio quando si venga richiesti per un altro più vantaggioso"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di vetture taxi non possono:",
+      "opzioni": [
+        "pretendere compensi oltre il prezzo segnato sul tassametro ed i supplementi dovuti",
+        "sostare in attesa dei clienti nei posteggi taxi",
+        "vestire con decoro"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "al termine del servizio il conducente della vettura taxi deve:",
+      "opzioni": [
+        "aprire la portiera dell'autovettura sul lato scorrimento dei veicoli ed aiutare a scendere i passeggeri",
+        "far prendere visione all'utente del prezzo della corsa e quindi azzerare il tassametro",
+        "pretendere compensi oltre al prezzo segnato sul tassametro ed i supplementi dovuti"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "l'attesa del servizio taxi avviene:",
+      "opzioni": [
+        "attraverso lo stazionamento presso gli alberghi scelti dal conducente del veicolo ed elencati sulla licenza",
+        "attraverso la sosta in appositi posteggi assegnati",
+        "attraverso lo stazionamento in apposite rimesse"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti del servizio taxi e/o autonoleggio è vietato:",
+      "opzioni": [
+        "accettare utenti tra i passeggeri in attesa presso la stazione",
+        "chiedere il pagamento dell'importo del servizio prestato",
+        "adibire il veicolo a servizi su itinerari fissi con orari e tariffe prestabilite"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di autovetture da piazza hanno l'obbligo:",
+      "opzioni": [
+        "di fumare in servizio",
+        "di rilasciare , a richiesta del cliente , una ricevuta attestante l'importo della corsa",
+        "di allontanarsi dal veicolo quando è in servizio"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti di autovetture da piazza hanno l'obbligo:",
+      "opzioni": [
+        "di essere provvisti di una guida aggiornata delle vie e piazze comprese nel territorio comunale",
+        "interrompere di propria iniziativa il servizio quando si venga richiesti per un altro più vantaggioso",
+        "recapitare i bagagli sulla soglia di casa dell'utente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti dei taxi e delle autovetture da noleggio è vietato:",
+      "opzioni": [
+        "dialogare con l'utente",
+        "ammettere sull'autovettura persone estranee a quelle che hanno richiesto il servizio",
+        "avvertire immediatamente l'utente dei supplementi di tariffa applicabili"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti degli autoservizi pubblici non di linea è vietato:",
+      "opzioni": [
+        "tenere sull'autovettura cani propri",
+        "tenere con gli utenti un contegno corretto",
+        "seguire le indicazioni di percorso fornite dall'utente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti delle autopubbliche è vietato:",
+      "opzioni": [
+        "controllare il regolare funzionamento del tassametro e/o del contachilometri",
+        "verificare con attenzione i consumi di carburante al fine di limitare i danni ecologici indotti",
+        "adibire l'autovettura all'esposizione o alla vendita di merci"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "ai conducenti di autopubbliche è vietato:",
+      "opzioni": [
+        "interrompere spontaneamente il turno di servizio o la corsa eccettuati i casi di forza maggiore",
+        "sostituire la ruota in caso di foratura",
+        "percorrere senza autorizzazione dell'utente le strade statali"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi all'inizio della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "azionare il tassametro ed assicurarsi che lo stesso funzioni regolarmente",
+        "pulire accuratamente il veicolo in ogni sua parte",
+        "richiamare l'attenzione della vigilanza urbana per verificare l'attendibilità dell'utente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi hanno l'obbligo di:",
+      "opzioni": [
+        "misurare la pressione degli pneumatici prima di ogni servizio",
+        "avvertire immediatamente l'utente dell'avvicinarsi della destinazione",
+        "avere a bordo del veicolo la licenza comunale ed i documenti di circolazione"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi all'inizio della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "segnalare tempestivamente la svolta a sinistra",
+        "caricare i bagagli di cui è consentito il trasporto senza deteriorare il veicolo",
+        "azionare il segnalatore acustico contestualmente alla salita dell'utente"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi hanno l'obbligo di:",
+      "opzioni": [
+        "sospendere la corsa solo per consumare il pasto",
+        "mettere a disposizione dell'utente la stampa quotidiana",
+        "applicare il cartello di fuori servizio al termine di ciascun turno e quando la vettura è usata per scopi familiari"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi durante l'effettuazione della corsa hanno il divieto di:",
+      "opzioni": [
+        "mangiare e tenere la radio ad alto volume",
+        "mangiare e fumare , se autorizzati dall'utente",
+        "dialogare con l'utente"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi durante l'effettuazione della corsa hanno il divieto di:",
+      "opzioni": [
+        "seguire le indicazioni di percorso fornite dall'utente",
+        "fare schiamazzi ed azionare continuamente i dispositivi acustici di segnalazione",
+        "fermarsi con il semaforo che proietta luce rossa"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi durante l'effettuazione della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "prodigarsi per portare a destinazione l'utente , anche se il veicolo si guasta",
+        "prevedere l'importo definitivo e contrattare con l'utente il corrispettivo",
+        "concordare e programmare in accordo con l'utente più viaggi o percorsi"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi durante il servizio hanno l'obbligo di:",
+      "opzioni": [
+        "verificare la consistenza del bagaglio",
+        "pretendere il pagamento anticipato della corsa successiva",
+        "essere sempre muniti di una congrua quantità di moneta spicciola per essere in grado di corrispondere al cliente il resto"
+      ],
+      "risposta_corretta": 2
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi hanno l'obbligo di:",
+      "opzioni": [
+        "disimpegnare il servizio con ogni decoro",
+        "acquisire un'altra corsa attraverso l'utilizzo del telefono cellulare",
+        "perquisire con attenzione i bagagli"
+      ],
+      "risposta_corretta": 0
+    },
+    {
+      "categoria": "Regolamento e Comportamento",
+      "testo": "i conducenti dei taxi al termine della corsa hanno l'obbligo di:",
+      "opzioni": [
+        "recapitare ad altro indirizzo il bagaglio dell'utente , con pagamento della corsa anticipato",
+        "accertare che l'utente non abbia smarrito alcun oggetto all'interno dell'autovettura",
+        "appropriarsi di qualsiasi oggetto smarrito all'interno dell'autovettura"
+      ],
+      "risposta_corretta": 1
+    },
+    {
+      "categoria": "Fuori Dispensa",
+      "testo": "I limiti di velocità in Corso Buenos Aires a Milano sono:",
+      "opzioni": [
+        "30 km/h",
+        "50 km/h",
+        "70 km/h"
+      ],
+      "risposta_corretta": 1
+    }
+  ]
+}
