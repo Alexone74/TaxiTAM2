@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Simulazione d'Esame al Ruolo Conducenti</title>
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            font-size: 16px;
+        }
+        @media (max-width: 640px) {
+            html {
+                font-size: 14px;
+            }
+        }
+        button {
+            touch-action: manipulation;
+        }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+        const { useState, useEffect, useCallback } = React;
+        
+        // Funzione di logging migliorata
+        const logger = {
+            log: (message, data) => {
+                console.log(`[SimulazioneEsame] ${message}`, data || '');
+            },
+            error: (message, error) => {
+                console.error(`[SimulazioneEsame] ERRORE: ${message}`, error || '');
+            }
+        };
+
+        // Funzione di fetch sicura con gestione degli errori
+        const safeFetch = async (url) => {
+            try {
+                logger.log(`Tentativo di caricamento: ${url}`);
+                const response = await fetch(url);
+                
+                if (!response.ok) {
+                    throw new Error(`Errore di rete: ${response.status} ${response.statusText}`);
+                }
+                
+                const data = await response.json();
+                logger.log(`Caricamento completato: ${url}`, data);
+                return data;
+            } catch (error) {
+                logger.error(`Impossibile caricare ${url}`, error);
+                return null;
+            }
+        };
+
+        function SimulazioneEsame() {
+            const [screen, setScreen] = useState('loading');
+            const [quizData, setQuizData] = useState(null);
+            const [simulazioneData, setSimulazioneData] = useState(null);
+            const [accessCodes, setAccessCodes] = useState(null);
+            const [error, setError] = useState(null);
+            
+            // Resto del codice precedente (mantenuto invariato)
+            const [examQuestions, setExamQuestions] = useState([]);
+            const [currentQuestion, setCurrentQuestion] = useState(0);
+            const [errors, setErrors] = useState({});
+            const [categoryCounts, setCategoryCounts] = useState({});
+            const [answerGiven, setAnswerGiven] = useState(false);
+            const [selectedLanguage, setSelectedLanguage] = useState(null);
+            const [selectedAnswer, setSelectedAnswer] = useState(null);
+            const [accessCode, setAccessCode] = useState('');
+            const [loginError, setLoginError] = useState('');
+            const [isAuthenticated, setIsAuthenticated] = useState(false);
+            const [isLoading, setIsLoading] = useState(false);
+            const [currentTime, setCurrentTime] = useState(0);
+            const [examStarted, setExamStarted] = useState(false);
+            const [timerInterval, setTimerInterval] = useState(null);
+
+            // Caricamento dei dati iniziali
+            const loadInitialData = useCallback(async () => {
+                try {
+                    setScreen('loading');
+                    
+                    // Caricamento parallelo dei dati
+                    const [quizResult, simulazioneResult, accessResult] = await Promise.all([
+                        safeFetch('quiz.json'),
+                        safeFetch('simulazione-esame.json'),
+                        safeFetch('access-codes.json')
+                    ]);
+
+                    // Gestione degli errori di caricamento
+                    if (!quizResult || !simulazioneResult || !accessResult) {
+                        throw new Error('Impossibile caricare uno o più file necessari');
+                    }
+
+                    setQuizData(quizResult);
+                    setSimulazioneData(simulazioneResult);
+                    setAccessCodes(accessResult);
+                    
+                    // Controlla se l'utente è già autenticato
+                    const savedAuth = localStorage.getItem('simulazione_authenticated');
+                    if (savedAuth === 'true') {
+                        setIsAuthenticated(true);
+                        setScreen('home');
+                    } else {
+                        setScreen('login');
+                    }
+                } catch (err) {
+                    logger.error('Errore nel caricamento iniziale', err);
+                    setError('Errore di caricamento. Riprova più tardi.');
+                    setScreen('error');
+                }
+            }, []);
+
+            // Effetto per il caricamento iniziale
+            useEffect(() => {
+                loadInitialData();
+            }, [loadInitialData]);
+
+            // Funzioni precedenti (hashCode, handleLogin, etc.) rimangono invariate
+
+            // Gestore degli errori globale
+            useEffect(() => {
+                const errorHandler = (event) => {
+                    logger.error('Errore non gestito', event.error);
+                    setError('Si è verificato un errore inatteso.');
+                    setScreen('error');
+                };
+
+                window.addEventListener('error', errorHandler);
+                return () => window.removeEventListener('error', errorHandler);
+            }, []);
+
+            // Rendering degli stati di errore
+            const renderErrorState = () => (
+                <div className="min-h-screen bg-red-100 flex items-center justify-center p-4">
+                    <div className="bg-white p-6 rounded-lg shadow-xl text-red-600 max-w-md w-full">
+                        <h2 className="text-2xl font-bold mb-4">Errore di Caricamento</h2>
+                        <p className="mb-4">{error || 'Si è verificato un problema imprevisto.'}</p>
+                        
+                        <div className="bg-red-50 p-4 rounded-lg mb-4">
+                            <h3 className="font-semibold mb-2">Possibili cause:</h3>
+                            <ul className="list-disc pl-5 text-sm">
+                                <li>Connessione Internet assente</li>
+                                <li>File JSON mancanti o danneggiati</li>
+                                <li>Errori di configurazione</li>
+                            </ul>
+                        </div>
+                        
+                        <div className="flex space-x-4">
+                            <button 
+                                onClick={loadInitialData}
+                                className="flex-1 px-4 py-2 bg-red-500 text-white rounded hover:bg-red-600 transition-colors"
+                            >
+                                Riprova
+                            </button>
+                            <button 
+                                onClick={() => window.location.reload()}
+                                className="flex-1 px-4 py-2 bg-gray-200 text-gray-800 rounded hover:bg-gray-300 transition-colors"
+                            >
+                                Ricarica Pagina
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            );
+
+            // Stato di caricamento
+            const renderLoadingState = () => (
+                <div className="min-h-screen bg-gradient-to-br from-blue-600 via-indigo-600 to-purple-600 flex items-center justify-center p-4">
+                    <div className="text-center">
+                        <div className="animate-spin mb-4 mx-auto w-16 h-16 border-t-4 border-white rounded-full"></div>
+                        <p className="text-white text-xl">Caricamento in corso...</p>
+                    </div>
+                </div>
+            );
+
+            // Rendering principale con gestione degli stati
+            if (screen === 'loading') return renderLoadingState();
+            if (screen === 'error') return renderErrorState();
+
+            // Resto del codice del componente (rimasto invariato)
+            // ... (incolla qui il resto del codice React originale)
+
+            // Esempio di fallback se qualcosa va storto
+            return (
+                <div className="min-h-screen bg-red-100 flex items-center justify-center">
+                    <div className="text-red-600 text-center">
+                        <h1 className="text-2xl font-bold mb-4">Ops! Qualcosa è andato storto</h1>
+                        <button 
+                            onClick={loadInitialData}
+                            className="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600"
+                        >
+                            Riprova
+                        </button>
+                    </div>
+                </div>
+            );
+        }
+
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<SimulazioneEsame />);
+    </script>
+</body>
+</html>
